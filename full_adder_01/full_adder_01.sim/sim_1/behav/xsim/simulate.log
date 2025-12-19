@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+========================================
+    1-Bit Full Adder Truth Table
+========================================
+A	B	Cin	|	Sum	Cout
+----------------------------------------
+0	0	0	|	0	0
+0	0	1	|	1	0
+0	1	0	|	1	0
+0	1	1	|	0	1
+1	0	0	|	1	0
+1	0	1	|	0	1
+1	1	0	|	0	1
+1	1	1	|	1	1
+========================================
+       Test Completed Successfully
+========================================
+$finish called at time : 80 ns : File "C:/Users/Thanmayee/full_adder_01/full_adder_01.srcs/sim_1/new/testbench.v" Line 87
